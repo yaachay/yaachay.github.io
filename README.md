@@ -1,3 +1,4 @@
+<!-- 
 # Welcome to [my github profile](https://github.com/yaachay) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">
 > Hi there, I am **[Yaa Chay](https://github.com/yaachay)**.
 >
@@ -50,5 +51,7 @@
 
 Phone        : (+95)9 405 999 313 
 
-Email        : yachay498@gmail.com
+Email        : yachay498@gmail.com 
+
+-->
 
